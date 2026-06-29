@@ -1,0 +1,11 @@
+Es importante que las plataformas tecnológicas en servidores funcionen de manera
+estable y segura porque muchas comunidades dependen de ellas para comunicarse,
+colaborar y acceder a servicios.
+Si el servidor falla o es inseguro, se puede perder información y confianza en la
+plataforma, afectando a los participantes.
+Un servidor estable garantiza disponibilidad continua y permite que los procesos
+participativos sigan trabajando sin interrupciones.
+Además, una buena seguridad protege datos sensibles y evita que atacantes manipulen
+la comunidad o sus decisiones.
+El servidor es la base donde corre la aplicación, por lo que su correcta gestión
+es clave para el funcionamiento de cualquier servicio comunitario.

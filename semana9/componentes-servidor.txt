@@ -1,0 +1,19 @@
+Sistema operativo:
+El sistema operativo administra el hardware y los recursos del servidor,
+como memoria, procesos y red.
+
+Node.js:
+Node.js es el entorno de ejecución que permite correr JavaScript en el servidor
+y ejecutar la aplicación Express.
+
+Aplicación server.js:
+El archivo server.js contiene el código de la aplicación, define rutas y
+responde a las solicitudes de los usuarios.
+
+Puerto:
+El puerto es el número que usa el servidor para escuchar solicitudes en una
+dirección específica del equipo.
+
+Logs:
+Los logs registran eventos y mensajes del servidor, lo que ayuda a monitorear y
+ver errores durante la ejecución.
