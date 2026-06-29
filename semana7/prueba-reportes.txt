@@ -1,0 +1,10 @@
+Al realizar una petición POST a /reportes con un JSON que contiene "tipo" y "descripcion", el servidor responde con un objeto que confirma "Reporte registrado" y devuelve el reporte agregado (incluye un campo "id").
+
+Al realizar una petición GET a /reportes, el servidor devuelve un arreglo JSON con todos los reportes registrados en memoria. Por ejemplo, después de registrar dos reportes, GET /reportes puede devolver:
+
+[
+  { "id": 1, "tipo": "Infraestructura", "descripcion": "Daño en alumbrado público" },
+  { "id": 2, "tipo": "Ambiente", "descripcion": "Acumulación de residuos en una zona comunitaria" }
+]
+
+Nota: Los datos se guardan en memoria (array). Si se reinicia el servidor, la lista vuelve a estar vacía.
