@@ -1,0 +1,8 @@
+Mantener un registro de cambios con Git es importante porque permite saber quién hizo cada modificación en el proyecto.
+Esto ayuda a resolver errores y entender la evolución del código.
+Un historial de commits facilita volver a versiones anteriores cuando es necesario.
+Además, Git hace posible trabajar en equipo sin perder control de los archivos.
+Cada commit actúa como una foto del estado del proyecto en un momento dado.
+El registro también permite revisar el trabajo y aprender de los cambios.
+Usar Git hace el desarrollo más seguro y organizado.
+Al final, esto mejora la calidad del software.
