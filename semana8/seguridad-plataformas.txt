@@ -1,0 +1,5 @@
+- No exponer datos personales en la plataforma.
+- Proteger las credenciales y contraseñas de los usuarios.
+- Usar conexiones seguras (HTTPS) para todas las comunicaciones.
+- Registrar accesos y monitorear actividad sospechosa.
+- Limitar los privilegios y el acceso a información sensible.
